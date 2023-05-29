@@ -1,6 +1,7 @@
 package MCexamples.messagequeuepubsub.pub_sub_queue.model;
 
-import com.uditagarwal.pub_sub_queue.public_interface.ISubscriber;
+
+import MCexamples.messagequeuepubsub.pub_sub_queue.public_interface.ISubscriber;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NonNull;

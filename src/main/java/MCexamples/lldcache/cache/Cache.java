@@ -1,9 +1,10 @@
 package MCexamples.lldcache.cache;
 
-import com.uditagarwal.cache.exceptions.NotFoundException;
-import com.uditagarwal.cache.exceptions.StorageFullException;
-import com.uditagarwal.cache.policies.EvictionPolicy;
-import com.uditagarwal.cache.storage.Storage;
+
+import MCexamples.lldcache.cache.exceptions.NotFoundException;
+import MCexamples.lldcache.cache.exceptions.StorageFullException;
+import MCexamples.lldcache.cache.policies.EvictionPolicy;
+import MCexamples.lldcache.cache.storage.Storage;
 
 public class Cache<Key, Value> {
     private final EvictionPolicy<Key> evictionPolicy;

@@ -1,8 +1,8 @@
 package MCexamples.messagequeuepubsub.pub_sub_queue.handler;
 
-import com.uditagarwal.pub_sub_queue.model.Message;
-import com.uditagarwal.pub_sub_queue.model.Topic;
-import com.uditagarwal.pub_sub_queue.model.TopicSubscriber;
+import MCexamples.messagequeuepubsub.pub_sub_queue.model.Message;
+import MCexamples.messagequeuepubsub.pub_sub_queue.model.Topic;
+import MCexamples.messagequeuepubsub.pub_sub_queue.model.TopicSubscriber;
 import lombok.Getter;
 import lombok.NonNull;
 import lombok.SneakyThrows;
