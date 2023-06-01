@@ -1,7 +1,7 @@
 package MCexamples.keyvaluestore.datastore;
 
-import com.design.keyvaluestore.models.AttributeMetaInfo;
-import com.design.keyvaluestore.models.KeyValueEntity;
+import MCexamples.keyvaluestore.models.AttributeMetaInfo;
+import MCexamples.keyvaluestore.models.KeyValueEntity;
 
 import java.util.ArrayList;
 import java.util.HashMap;

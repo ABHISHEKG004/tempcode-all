@@ -1,6 +1,6 @@
 package MCexamples.MeetingSchduler.driver;
 
-import com.design.lowlevel.mine.MeetingSchduler.service.MeetingSchdulerService;
+import MCexamples.lowlevel.mine.MeetingSchduler.service.MeetingSchdulerService;
 
 /**
  * Created by abhishek.gupt on 27/12/17.

@@ -1,6 +1,6 @@
 package MCexamples.ReceptionSystem.datastore;
 
-import com.design.lowlevel.mine.ReceptionSystem.model.Customer;
+import MCexamples.lowlevel.mine.ReceptionSystem.model.Customer;
 
 import java.util.ArrayList;
 import java.util.HashMap;

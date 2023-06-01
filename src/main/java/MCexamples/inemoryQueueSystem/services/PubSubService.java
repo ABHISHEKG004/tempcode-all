@@ -1,9 +1,9 @@
 package MCexamples.inemoryQueueSystem.services;
 
-import com.design.lowlevel.mine.inemoryQueueSystem.models.Message;
-import com.design.lowlevel.mine.inemoryQueueSystem.subscriber.Subscriber;
-import com.design.lowlevel.mine.inemoryQueueSystem.utils.MyQueue;
-import com.design.lowlevel.mine.inemoryQueueSystem.utils.ObjectMapperUtil;
+import MCexamples.lowlevel.mine.inemoryQueueSystem.models.Message;
+import MCexamples.lowlevel.mine.inemoryQueueSystem.subscriber.Subscriber;
+import MCexamples.lowlevel.mine.inemoryQueueSystem.utils.MyQueue;
+import MCexamples.lowlevel.mine.inemoryQueueSystem.utils.ObjectMapperUtil;
 
 import java.io.IOException;
 import java.util.*;

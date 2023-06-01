@@ -1,6 +1,6 @@
 package MCexamples.LineTextEditor.driver;
 
-import com.design.lowlevel.mine.LineTextEditor.service.UiService;
+import MCexamples.lowlevel.mine.LineTextEditor.service.UiService;
 
 /**
  * Created by abhishek.gupt on 08/01/18.

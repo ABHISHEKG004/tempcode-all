@@ -1,6 +1,6 @@
 package MCothers.JobPortalVersionGaurav.datastore;
 
-import com.design.lowlevel.others.JobPortalVersionGaurav.model.User;
+import MCothers.JobPortalVersionGaurav.model.User;
 
 import java.util.HashMap;
 

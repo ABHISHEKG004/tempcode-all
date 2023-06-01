@@ -1,7 +1,7 @@
 package MCothers.MarketPlaceFlipkart.listeners;
 
-import com.design.lowlevel.others.MarketPlaceFlipkart.DataStore;
-import com.design.lowlevel.others.MarketPlaceFlipkart.operation.*;
+import MCothers.MarketPlaceFlipkart.DataStore;
+import MCothers.MarketPlaceFlipkart.operation.*;
 
 /**
  * Created by shiva.b on 02/12/17.

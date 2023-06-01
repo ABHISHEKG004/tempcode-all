@@ -1,6 +1,6 @@
 package MCothers.MarketPlaceFlipkart.pojo;
 
-import com.design.lowlevel.others.MarketPlaceFlipkart.enums.UserStatus;
+import MCothers.MarketPlaceFlipkart.enums.UserStatus;
 
 /**
  * Created by shiva.b on 02/12/17.

@@ -1,9 +1,9 @@
 package MCexamples.MeetingSchduler.service;
 
 
-import com.design.lowlevel.mine.MeetingSchduler.datastore.DataStore;
-import com.design.lowlevel.mine.MeetingSchduler.model.Meeting;
-import com.design.lowlevel.mine.MeetingSchduler.model.TimeSlot;
+import MCexamples.lowlevel.mine.MeetingSchduler.datastore.DataStore;
+import MCexamples.lowlevel.mine.MeetingSchduler.model.Meeting;
+import MCexamples.lowlevel.mine.MeetingSchduler.model.TimeSlot;
 
 /**
  * Created by abhishek.gupt on 27/12/17.

@@ -1,6 +1,6 @@
 package MCexamples.LineTextEditor.processor;
 
-import com.design.lowlevel.mine.LineTextEditor.datastore.DataStore;
+import MCexamples.lowlevel.mine.LineTextEditor.datastore.DataStore;
 
 import java.util.ArrayList;
 import java.util.Scanner;

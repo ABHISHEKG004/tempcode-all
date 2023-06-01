@@ -1,6 +1,6 @@
 package MCexamples.SwiggyAutoAssignment.DataStore;
 
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Models.*;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Models.*;
 
 import java.util.ArrayList;
 

@@ -1,8 +1,8 @@
 package MCothers.MarketPlaceFlipkart;
 
-import com.design.lowlevel.others.MarketPlaceFlipkart.enums.Category;
-import com.design.lowlevel.others.MarketPlaceFlipkart.pojo.Product;
-import com.design.lowlevel.others.MarketPlaceFlipkart.pojo.User;
+import MCothers.MarketPlaceFlipkart.enums.Category;
+import MCothers.MarketPlaceFlipkart.pojo.Product;
+import MCothers.MarketPlaceFlipkart.pojo.User;
 
 import java.util.HashMap;
 import java.util.HashSet;

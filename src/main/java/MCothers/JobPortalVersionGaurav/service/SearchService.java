@@ -1,7 +1,7 @@
 package MCothers.JobPortalVersionGaurav.service;
 
-import com.design.lowlevel.others.JobPortalVersionGaurav.constants.UserDetails;
-import com.design.lowlevel.others.JobPortalVersionGaurav.model.User;
+import MCothers.JobPortalVersionGaurav.constants.UserDetails;
+import MCothers.JobPortalVersionGaurav.model.User;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,13 +1,13 @@
 package MCexamples.inemoryQueueSystem.driver;
 
 
-import com.design.lowlevel.mine.inemoryQueueSystem.models.Message;
-import com.design.lowlevel.mine.inemoryQueueSystem.producer.Producer;
-import com.design.lowlevel.mine.inemoryQueueSystem.producer.ProducerImpl;
-import com.design.lowlevel.mine.inemoryQueueSystem.services.PubSubService;
-import com.design.lowlevel.mine.inemoryQueueSystem.subscriber.Subscriber;
-import com.design.lowlevel.mine.inemoryQueueSystem.subscriber.SubscriberImpl;
-import com.design.lowlevel.mine.inemoryQueueSystem.utils.TopDependency;
+import MCexamples.lowlevel.mine.inemoryQueueSystem.models.Message;
+import MCexamples.lowlevel.mine.inemoryQueueSystem.producer.Producer;
+import MCexamples.lowlevel.mine.inemoryQueueSystem.producer.ProducerImpl;
+import MCexamples.lowlevel.mine.inemoryQueueSystem.services.PubSubService;
+import MCexamples.lowlevel.mine.inemoryQueueSystem.subscriber.Subscriber;
+import MCexamples.lowlevel.mine.inemoryQueueSystem.subscriber.SubscriberImpl;
+import MCexamples.lowlevel.mine.inemoryQueueSystem.utils.TopDependency;
 
 import java.io.IOException;
 import java.util.*;

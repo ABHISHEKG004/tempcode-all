@@ -1,7 +1,7 @@
 package MCexamples.MeetingSchduler.model;
 
 
-import com.design.lowlevel.mine.MeetingSchduler.constants.TimeSlotDetails;
+import MCexamples.lowlevel.mine.MeetingSchduler.constants.TimeSlotDetails;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

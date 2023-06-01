@@ -1,9 +1,9 @@
 package MCothers.MarketPlaceFlipkart.operation;
 
-import com.design.lowlevel.others.MarketPlaceFlipkart.DataStore;
-import com.design.lowlevel.others.MarketPlaceFlipkart.Utils;
-import com.design.lowlevel.others.MarketPlaceFlipkart.pojo.Product;
-import com.design.lowlevel.others.MarketPlaceFlipkart.pojo.User;
+import MCothers.MarketPlaceFlipkart.DataStore;
+import MCothers.MarketPlaceFlipkart.Utils;
+import MCothers.MarketPlaceFlipkart.pojo.Product;
+import MCothers.MarketPlaceFlipkart.pojo.User;
 
 import java.io.IOException;
 

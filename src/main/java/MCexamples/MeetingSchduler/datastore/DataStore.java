@@ -1,7 +1,7 @@
 package MCexamples.MeetingSchduler.datastore;
 
-import com.design.lowlevel.mine.MeetingSchduler.model.Meeting;
-import com.design.lowlevel.mine.MeetingSchduler.model.TimeSlot;
+import MCexamples.lowlevel.mine.MeetingSchduler.model.Meeting;
+import MCexamples.lowlevel.mine.MeetingSchduler.model.TimeSlot;
 
 import java.util.HashMap;
 import java.util.Map;

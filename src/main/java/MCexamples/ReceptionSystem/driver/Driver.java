@@ -1,8 +1,8 @@
 package MCexamples.ReceptionSystem.driver;
 
-import com.design.lowlevel.mine.ReceptionSystem.model.Customer;
-import com.design.lowlevel.mine.ReceptionSystem.processor.RequestProcessor;
-import com.design.lowlevel.mine.ReceptionSystem.service.Reception;
+import MCexamples.lowlevel.mine.ReceptionSystem.model.Customer;
+import MCexamples.lowlevel.mine.ReceptionSystem.processor.RequestProcessor;
+import MCexamples.lowlevel.mine.ReceptionSystem.service.Reception;
 
 /**
  * Created by abhishek.gupt on 16/02/18.

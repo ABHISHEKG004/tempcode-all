@@ -1,12 +1,12 @@
 package MCexamples.VenndingMachine;
 
-import com.design.lowlevel.mine.VenndingMachine.exceptions.CoinNotFoundException;
-import com.design.lowlevel.mine.VenndingMachine.exceptions.ItemNotFoundException;
+import MCexamples.lowlevel.mine.VenndingMachine.exceptions.CoinNotFoundException;
+import MCexamples.lowlevel.mine.VenndingMachine.exceptions.ItemNotFoundException;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import static com.design.lowlevel.mine.VenndingMachine.Coin.*;
+import static MCexamples.lowlevel.mine.VenndingMachine.Coin.*;
 
 public class InventoryService {
 

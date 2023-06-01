@@ -1,4 +1,4 @@
-package Threading.locks;
+package Threading.producerconsumer;
 
 import java.util.ArrayList;
 import java.util.List;

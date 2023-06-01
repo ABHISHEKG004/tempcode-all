@@ -5,9 +5,9 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.TreeSet;
 
-import static com.design.parkinglot.Datastore.*;
-import static com.design.parkinglot.SlotStatus.AVAILABLE;
-import static com.design.parkinglot.SlotStatus.OCCUPIED;
+import static MCexamples.parkinglot.Datastore.*;
+import static MCexamples.parkinglot.SlotStatus.AVAILABLE;
+import static MCexamples.parkinglot.SlotStatus.OCCUPIED;
 
 /**
  * Created by Abhishek gupta on 2019-10-14

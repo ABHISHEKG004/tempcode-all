@@ -1,7 +1,7 @@
 package MCexamples.ReceptionSystem.processor;
 
-import com.design.lowlevel.mine.ReceptionSystem.datastore.Datastore;
-import com.design.lowlevel.mine.ReceptionSystem.model.Customer;
+import MCexamples.lowlevel.mine.ReceptionSystem.datastore.Datastore;
+import MCexamples.lowlevel.mine.ReceptionSystem.model.Customer;
 
 /**
  * Created by abhishek.gupt on 16/02/18.

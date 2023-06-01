@@ -1,7 +1,7 @@
 package MCexamples.VenndingMachine;
 
 
-import com.design.lowlevel.mine.VenndingMachine.exceptions.*;
+import MCexamples.lowlevel.mine.VenndingMachine.exceptions.*;
 
 import java.util.HashMap;
 

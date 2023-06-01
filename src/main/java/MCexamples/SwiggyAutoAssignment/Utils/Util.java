@@ -1,7 +1,7 @@
 package MCexamples.SwiggyAutoAssignment.Utils;
 
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Models.Item;
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Models.Location;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Models.Item;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Models.Location;
 
 import java.util.ArrayList;
 

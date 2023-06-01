@@ -2,7 +2,7 @@ package MCexamples.parkinglot;
 
 import java.util.HashMap;
 
-import static com.design.parkinglot.Type.*;
+import static MCexamples.parkinglot.Type.*;
 
 /**
  * Created by Abhishek gupta on 2019-10-14

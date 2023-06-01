@@ -1,7 +1,7 @@
 package MCexamples.ReceptionSystem.service;
 
-import com.design.lowlevel.mine.ReceptionSystem.datastore.Datastore;
-import com.design.lowlevel.mine.ReceptionSystem.model.Customer;
+import MCexamples.lowlevel.mine.ReceptionSystem.datastore.Datastore;
+import MCexamples.lowlevel.mine.ReceptionSystem.model.Customer;
 
 import java.util.ArrayList;
 

@@ -1,6 +1,6 @@
 package MCothers.MarketPlaceFlipkart.pojo;
 
-import com.design.lowlevel.others.MarketPlaceFlipkart.enums.Category;
+import MCothers.MarketPlaceFlipkart.enums.Category;
 
 /**
  * Created by shiva.b on 02/12/17.

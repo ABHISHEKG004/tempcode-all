@@ -1,6 +1,6 @@
 package MCothers.MarketPlaceFlipkart.operation;
 
-import com.design.lowlevel.others.MarketPlaceFlipkart.DataStore;
+import MCothers.MarketPlaceFlipkart.DataStore;
 
 /**
  * Created by shiva.b on 02/12/17.

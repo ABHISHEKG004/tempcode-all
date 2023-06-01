@@ -1,9 +1,9 @@
 package MCothers.MarketPlaceFlipkart.operation;
 
 
-import com.design.lowlevel.others.MarketPlaceFlipkart.DataStore;
-import com.design.lowlevel.others.MarketPlaceFlipkart.Utils;
-import com.design.lowlevel.others.MarketPlaceFlipkart.enums.Category;
+import MCothers.MarketPlaceFlipkart.DataStore;
+import MCothers.MarketPlaceFlipkart.Utils;
+import MCothers.MarketPlaceFlipkart.enums.Category;
 import org.codehaus.jackson.map.ObjectMapper;
 
 import java.io.IOException;

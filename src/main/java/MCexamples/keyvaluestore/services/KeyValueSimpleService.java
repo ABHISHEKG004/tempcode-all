@@ -1,10 +1,10 @@
 package MCexamples.keyvaluestore.services;
 
-import com.design.keyvaluestore.datastore.Datastore;
-import com.design.keyvaluestore.exceptions.InvalidAttributeTypeException;
-import com.design.keyvaluestore.models.AttributeEntity;
-import com.design.keyvaluestore.models.AttributeMetaInfo;
-import com.design.keyvaluestore.models.KeyValueEntity;
+import MCexamples.keyvaluestore.datastore.Datastore;
+import MCexamples.keyvaluestore.exceptions.InvalidAttributeTypeException;
+import MCexamples.keyvaluestore.models.AttributeEntity;
+import MCexamples.keyvaluestore.models.AttributeMetaInfo;
+import MCexamples.keyvaluestore.models.KeyValueEntity;
 
 import java.util.ArrayList;
 

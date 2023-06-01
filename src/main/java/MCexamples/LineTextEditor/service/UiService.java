@@ -1,6 +1,6 @@
 package MCexamples.LineTextEditor.service;
 
-import com.design.lowlevel.mine.LineTextEditor.processor.TextEditorProcessor;
+import MCexamples.lowlevel.mine.LineTextEditor.processor.TextEditorProcessor;
 
 import java.util.ArrayList;
 import java.util.Scanner;

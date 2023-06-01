@@ -1,6 +1,6 @@
 package MCothers.JobPortalVersionGaurav.driver;
 
-import com.design.lowlevel.others.JobPortalVersionGaurav.service.UIService;
+import MCothers.JobPortalVersionGaurav.service.UIService;
 
 /**
  * Created by gaurav.kum on 13/12/17.

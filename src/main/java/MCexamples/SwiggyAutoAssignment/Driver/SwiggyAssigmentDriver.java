@@ -1,11 +1,11 @@
 package MCexamples.SwiggyAutoAssignment.Driver;
 
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Constants.DEStatus;
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Constants.OrderStatus;
-import com.design.lowlevel.mine.SwiggyAutoAssignment.DataStore.Database;
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Models.*;
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Processor.OrderAssignementProcessor;
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Utils.Util;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Constants.DEStatus;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Constants.OrderStatus;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.DataStore.Database;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Models.*;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Processor.OrderAssignementProcessor;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Utils.Util;
 
 /**
  * Created by abhishek.gupt on 26/05/18.

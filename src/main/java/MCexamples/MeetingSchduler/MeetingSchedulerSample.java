@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
-import static com.design.lowlevel.mine.MeetingSchduler.MeetingSchedulerSample.TimeSlot.createNewSlot;
+import static MCexamples.lowlevel.mine.MeetingSchduler.MeetingSchedulerSample.TimeSlot.createNewSlot;
 
 /**
  * Created by abhishek.gupt on 27/12/17.

@@ -1,13 +1,13 @@
 package MCexamples.SwiggyAutoAssignment.Service;
 
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Constants.DEStatus;
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Constants.OrderStatus;
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Constants.PriorityConstants;
-import com.design.lowlevel.mine.SwiggyAutoAssignment.DataStore.Database;
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Models.DeliveryExecutive;
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Models.Order;
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Models.PriorityModel;
-import com.design.lowlevel.mine.SwiggyAutoAssignment.Utils.Util;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Constants.DEStatus;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Constants.OrderStatus;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Constants.PriorityConstants;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.DataStore.Database;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Models.DeliveryExecutive;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Models.Order;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Models.PriorityModel;
+import MCexamples.lowlevel.mine.SwiggyAutoAssignment.Utils.Util;
 
 import java.util.ArrayList;
 
