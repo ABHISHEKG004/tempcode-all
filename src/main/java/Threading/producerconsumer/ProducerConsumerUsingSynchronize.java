@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Random;
 
-public class ProducerConsumerInJava {
+public class ProducerConsumerUsingSynchronize {
 
     public static void main(String args[]) {
         System.out.println("How to use wait and notify method in Java");
