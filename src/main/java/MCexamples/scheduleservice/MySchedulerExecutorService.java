@@ -117,10 +117,14 @@ public class MySchedulerExecutorService implements ScheduledExecutorService{
 
                 Runnable handleDelayNonBlockingMain = new Runnable() {
 
+                    private long lastExecutionTime;
+
                     // i guess issue is happening due to mulitple thread and thus no honouring delay tasks
                     //edit : now working after ading taskQueue.notifyAll();
                     @Override
                     public void run() {
+
+                        lastExecutionTime = System.currentTimeMillis();
 
                         command.run();
 
@@ -128,7 +132,7 @@ public class MySchedulerExecutorService implements ScheduledExecutorService{
 
                         synchronized(taskQueue) {
 
-                            long newScheduledTime = System.currentTimeMillis() + unit.toMillis(period);
+                            long newScheduledTime = Math.max(System.currentTimeMillis(), lastExecutionTime + unit.toMillis(period));
 
                             System.out.println("special 1 newScheduledTime -> " + newScheduledTime/1000 + " period -> " + period);
 //                            this.setScheduledTime(newScheduledTime);
@@ -137,6 +141,10 @@ public class MySchedulerExecutorService implements ScheduledExecutorService{
                             System.out.println("special 1 added");
                             taskQueue.notifyAll();
                         }
+                    }
+
+                    public long getLastExecutionTime() {
+                        return lastExecutionTime;
                     }
                 };
 
