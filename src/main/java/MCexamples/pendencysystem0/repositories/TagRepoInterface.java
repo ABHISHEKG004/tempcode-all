@@ -1,8 +1,8 @@
-package MCexamples.pendencysystem.repositories;
+package MCexamples.pendencysystem0.repositories;
 
 
-import MCexamples.pendencysystem.models.Entity;
-import MCexamples.pendencysystem.models.Tags;
+import MCexamples.pendencysystem0.models.Entity;
+import MCexamples.pendencysystem0.models.Tags;
 
 import java.util.List;
 

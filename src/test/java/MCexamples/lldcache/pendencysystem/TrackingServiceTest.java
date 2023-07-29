@@ -1,14 +1,14 @@
 package MCexamples.lldcache.pendencysystem;
 
-import MCexamples.pendencysystem.models.CityTag;
-import MCexamples.pendencysystem.models.PaymentTag;
-import MCexamples.pendencysystem.models.StateTag;
-import MCexamples.pendencysystem.models.Tags;
-import MCexamples.pendencysystem.repositories.EntityRepo;
-import MCexamples.pendencysystem.repositories.EntityRepoInterface;
-import MCexamples.pendencysystem.repositories.TagRepo;
-import MCexamples.pendencysystem.repositories.TagRepoInterface;
-import MCexamples.pendencysystem.services.TrackingService;
+import MCexamples.pendencysystem0.models.CityTag;
+import MCexamples.pendencysystem0.models.PaymentTag;
+import MCexamples.pendencysystem0.models.StateTag;
+import MCexamples.pendencysystem0.models.Tags;
+import MCexamples.pendencysystem0.repositories.EntityRepo;
+import MCexamples.pendencysystem0.repositories.EntityRepoInterface;
+import MCexamples.pendencysystem0.repositories.TagRepo;
+import MCexamples.pendencysystem0.repositories.TagRepoInterface;
+import MCexamples.pendencysystem0.services.TrackingService;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,7 +1,7 @@
-package MCexamples.pendencysystem.repositories;
+package MCexamples.pendencysystem0.repositories;
 
 
-import MCexamples.pendencysystem.models.Entity;
+import MCexamples.pendencysystem0.models.Entity;
 
 public interface EntityRepoInterface {
 
