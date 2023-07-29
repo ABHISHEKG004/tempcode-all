@@ -1,6 +1,6 @@
 package MCexamples.pendencySystem.entity;
 
-import com.lld.pendencySystem.enums.TrackingStatus;
+import MCexamples.pendencySystem.enums.TrackingStatus;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;

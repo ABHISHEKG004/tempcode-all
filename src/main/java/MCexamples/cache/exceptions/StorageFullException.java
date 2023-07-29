@@ -1,4 +1,4 @@
-package MCexamples.lldcache.cache.exceptions;
+package MCexamples.cache.exceptions;
 
 public class StorageFullException extends RuntimeException {
 

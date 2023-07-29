@@ -1,7 +1,8 @@
 package MCexamples.lldcache;
 
-import com.uditagarwal.cache.Cache;
-import com.uditagarwal.cache.factories.CacheFactory;
+
+import MCexamples.cache.Cache;
+import MCexamples.cache.factories.CacheFactory;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

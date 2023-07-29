@@ -1,4 +1,4 @@
-package MCexamples.lldcache.cache.storage;
+package MCexamples.cache.storage;
 
 import com.uditagarwal.cache.exceptions.NotFoundException;
 import com.uditagarwal.cache.exceptions.StorageFullException;

@@ -1,4 +1,4 @@
-package MCexamples.lldcache.cache.policies;
+package MCexamples.cache.policies;
 
 
 import com.uditagarwal.algoritms.DoublyLinkedList;

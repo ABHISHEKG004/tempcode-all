@@ -1,8 +1,9 @@
-package MCexamples.lldcache.cache.factories;
+package MCexamples.cache.factories;
 
-import com.uditagarwal.cache.Cache;
-import com.uditagarwal.cache.policies.LRUEvictionPolicy;
-import com.uditagarwal.cache.storage.HashMapBasedStorage;
+
+import MCexamples.cache.Cache;
+import MCexamples.cache.policies.LRUEvictionPolicy;
+import MCexamples.cache.storage.HashMapBasedStorage;
 
 public class CacheFactory<Key, Value> {
 

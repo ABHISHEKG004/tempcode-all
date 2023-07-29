@@ -1,4 +1,4 @@
-package MCexamples.lldcache.cache.policies;
+package MCexamples.cache.policies;
 
 /**
  * Interface for defining eviction policies.

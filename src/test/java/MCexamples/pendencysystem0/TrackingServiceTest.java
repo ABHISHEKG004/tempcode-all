@@ -1,4 +1,4 @@
-package MCexamples.lldcache.pendencysystem0;
+package MCexamples.pendencysystem0;
 
 import MCexamples.pendencysystem0.models.CityTag;
 import MCexamples.pendencysystem0.models.PaymentTag;

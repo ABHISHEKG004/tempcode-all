@@ -1,4 +1,4 @@
-package MCexamples.lldcache;
+package MCexamples;
 
 public class Main {
 
